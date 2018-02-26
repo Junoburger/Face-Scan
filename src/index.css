@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(90deg, rgb(84, 184, 103) 40%, rgb(56, 130, 255) 80%, rgb(0, 71, 101) 90%);
+}
+.white:hover{
+  color: white;
+}
+
+button{
+  cursor: pointer;
+}
